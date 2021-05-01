@@ -1,6 +1,8 @@
 # MiniDumpSnapshot
 
+```
 Usage: MiniDumpSnapShot.exe
+```
 
 Upon successfull execution you can find the lsass.dmp file in C:\Windows\tasks
 
