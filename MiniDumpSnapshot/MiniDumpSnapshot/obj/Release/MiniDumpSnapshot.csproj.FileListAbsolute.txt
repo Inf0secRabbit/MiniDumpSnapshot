@@ -1,0 +1,2 @@
+C:\Users\sudo\source\repos\MiniDumpSnapshot\MiniDumpSnapshot\obj\Release\MiniDumpSnapshot.csprojAssemblyReference.cache
+C:\Users\sudo\source\repos\MiniDumpSnapshot\MiniDumpSnapshot\obj\Release\MiniDumpSnapshot.csproj.CoreCompileInputs.cache

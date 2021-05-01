@@ -1,0 +1,6 @@
+C:\Users\sudo\source\repos\MiniDumpSnapshot\MiniDumpSnapshot\bin\Debug\MiniDumpSnapshot.exe
+C:\Users\sudo\source\repos\MiniDumpSnapshot\MiniDumpSnapshot\bin\Debug\MiniDumpSnapshot.pdb
+C:\Users\sudo\source\repos\MiniDumpSnapshot\MiniDumpSnapshot\obj\Debug\MiniDumpSnapshot.csproj.CoreCompileInputs.cache
+C:\Users\sudo\source\repos\MiniDumpSnapshot\MiniDumpSnapshot\obj\Debug\MiniDumpSnapshot.exe
+C:\Users\sudo\source\repos\MiniDumpSnapshot\MiniDumpSnapshot\obj\Debug\MiniDumpSnapshot.pdb
+C:\Users\sudo\source\repos\MiniDumpSnapshot\MiniDumpSnapshot\obj\Debug\MiniDumpSnapshot.csprojAssemblyReference.cache
