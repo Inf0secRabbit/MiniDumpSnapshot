@@ -2,10 +2,17 @@
 
 Usage: MiniDumpSnapShot.exe
 
-Upon Successfull execution you can find the lsass.dmp file in C:\Windows\tasks
+Upon successfull execution you can find the lsass.dmp file in C:\Windows\tasks
 
 This program uses PSSCaptureSnapShot API to take the snapshot of the lsass process.
 
 MiniDumpWriteDump will further use the handle returned by PSSCaptureSnapShot instead of LSASS process.
 
-The was inspired by awesome work done by 
+## Credits
+This was inspired by awesome work done in SharpSploit by @cobbr
+
+There is also an BOF created for the same by @pwn1sher
+https://github.com/pwn1sher/CS-BOFs
+
+
+
