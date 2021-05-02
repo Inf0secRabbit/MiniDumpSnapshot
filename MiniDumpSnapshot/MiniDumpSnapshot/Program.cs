@@ -192,7 +192,7 @@ namespace MiniDumpSnapshot
                 return hresult;
             }
 
-            using (var file = new FileStream("C:\\Windows\\tasks\\lsass.dmp", FileMode.Create))
+            using (var file = new FileStream("C:\\Windows\\tasks\\memory.dmp", FileMode.Create))
             {
                 var CbackDelegate = new MiniDumpCallback(MiniDumpCallbackMethod);
                 var CbackParam = Marshal.AllocHGlobal(IntPtr.Size * 2);
